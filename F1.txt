@@ -3,3 +3,5 @@ hello
 hw ru 
 gn
 gm
+have dinner
+go sleep

@@ -5,3 +5,6 @@ gn
 gm
 have dinner
 go sleep
+bye
+good night
+

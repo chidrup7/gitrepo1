@@ -1,6 +1,4 @@
 hi
 hello
 hw ru 
-bye
-good night
-welcome to citius
+

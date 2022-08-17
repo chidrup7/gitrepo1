@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hi
  hello
 hw r u
 fine  W
+=======
+hi hello 
+>>>>>>> c616afcd863364af9be996362bb1b631532feb2e

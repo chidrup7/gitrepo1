@@ -6,3 +6,5 @@ hello
 gm
 fine
 gn
+dinner 
+lunch
